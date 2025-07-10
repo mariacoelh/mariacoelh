@@ -1,29 +1,79 @@
-### Olá 👋
- <div>
-  <a href="https://github.com/mariacoelh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariacoelh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacoelh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mari-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/m_coelho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: oliveiracoelhomaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-coelho-9680aa1a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/mariacoelh/mariacoelh/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# 👩‍💻 Maria Oliveira Coelho
 
- 
+**Desenvolvedora FullStack | TypeScript, Node.js, .NET, React**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-coelho-9680aa1a7)  
+💻 [GitHub](https://github.com/mariacoelh)  
+📧 developer.coelho@gmail.com  
+📱 (88) 99647-3551  
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedora FullStack com mais de 5 anos de experiência em soluções web escaláveis. Tenho forte atuação com Node.js, TypeScript, C#, React e bancos de dados relacionais e NoSQL. Atuo em todo o ciclo de vida do software — do planejamento ao deploy — com foco em microsserviços, APIs REST e práticas ágeis. Busco sempre a entrega de valor ao negócio, mantendo a qualidade de código, performance e segurança.
+
+---
+
+## 💼 Experiência Profissional
+
+**🔹 Desenvolvedora FullStack Pleno – Fitbank**  
+_Março 2025 - atual_  
+- Desenvolvimento fullstack com foco em performance e escalabilidade.
+- Manutenção e criação de APIs RESTful.
+- Otimização de sistemas e ambientes em Azure DevOps.
+
+**🔹 Tech Lead – Fitbank**  
+_Março 2024 - Março 2025_  
+- Liderança técnica e mentoria de time.
+- Definição de melhores práticas e arquitetura.
+- Gestão de backlog e entregas com foco em qualidade.
+
+**🔹 Desenvolvedora FullStack Júnior – Fitbank**  
+_Fevereiro 2022 – Março 2024_  
+- Integração de sistemas com Elasticsearch, PostgreSQL e MongoDB.
+- Automatização de pipelines de CI/CD.
+- Uso intensivo de GitHub Copilot para produtividade.
+
+**🔹 Desenvolvedora FullStack Trainee – Fitbank**  
+_Julho 2021 – Fevereiro 2022_  
+- Atuação em projetos Node.js e front-end.
+- Participação em cerimônias ágeis.
+- Integrações via Postman.
+
+---
+
+## 📁 Projetos
+
+### 🧷 Garotas Tech dos Sertões de Crateús (Voluntária - UFC)
+Projeto de extensão para incentivar a participação de mulheres na tecnologia. Atuei na organização de oficinas e mentoria.
+
+### 🏦 Open Banking Platform (Bolsista - Fundação ASTEF)
+Colaborei no desenvolvimento front-end de uma plataforma reutilizável de Open Banking, com foco em inclusão financeira e modernização de empresas.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Back-end:** Node.js, .NET, TypeScript, C#, Java  
+- **Front-end:** React.js, HTML5, CSS3, JavaScript  
+- **Banco de Dados:** PostgreSQL, MongoDB, Elasticsearch  
+- **DevOps:** Azure, Azure DevOps, GitHub Actions, CI/CD  
+- **Testes:** Testes unitários e de integração  
+- **Práticas:** Clean Code, SOLID, Microsserviços, APIs REST  
+
+---
+
+## 🎓 Formação Acadêmica
+
+- Pós-Graduação em Engenharia de Software — Unopar (2024)  
+- Pós-Graduação em Engenharia de Dados — Unopar (2024)  
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — Unopar (2023-2024)  
+- Bacharel em Ciência da Computação — Universidade Federal do Ceará (2023)  
+
+---
+
+## 🌐 Idiomas
+
+- Inglês Técnico  
+- Espanhol Intermediário  
