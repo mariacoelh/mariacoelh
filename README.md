@@ -76,4 +76,15 @@ Colaborei no desenvolvimento front-end de uma plataforma reutilizável de Open B
 ## 🌐 Idiomas
 
 - Inglês Técnico  
-- Espanhol Intermediário  
+- Espanhol Intermediário
+
+
+##
+ 
+<div> 
+ 
+![Snake animation](https://github.com/mariacoelh/mariacoelh/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+ 
